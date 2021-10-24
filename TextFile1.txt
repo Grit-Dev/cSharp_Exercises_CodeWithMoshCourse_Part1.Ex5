@@ -1,0 +1,1 @@
+﻿This is my text file I am using as an example. For Exercise 2 the biggest word is going to be: MetalGearSolid.
